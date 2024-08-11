@@ -206,7 +206,7 @@ function App() {
                         <div className="flex flex-col bg-white pt-4 pr-8 pb-8 pl-8 gap-4 rounded-t-3xl rounded-b-xl shadow-custom-white">
                             <div>
                                 <h2 className="headline">
-                                    Telegram Mini App Demo
+                                    Telegram Mini App Demo thien
                                 </h2>
                             </div>
                             <div>
